@@ -1,0 +1,19 @@
+[project]
+name = "smartorder-ai"
+version = "0.1.0"
+description = "SmartOrder AI Pipeline - Voice/Touch ordering AI engine"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]",
+    "redis",
+    "httpx",
+    "python-dotenv",
+    "langchain",
+    "langchain-openai",
+    "langgraph",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

@@ -1,0 +1,11 @@
+{
+  "order": "주문하기",
+  "cart": "장바구니",
+  "total": "총 결제금액",
+  "clearCart": "전체삭제",
+  "aiChatTitle": "AI 음성 주문",
+  "aiChatPlaceholder": "메뉴를 말씀하시거나 입력해주세요...",
+  "menu": "메뉴",
+  "categoryAll": "전체",
+  "addCart": "담기"
+}

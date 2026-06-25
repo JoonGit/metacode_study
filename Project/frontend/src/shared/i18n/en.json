@@ -1,0 +1,11 @@
+{
+  "order": "Order",
+  "cart": "Cart",
+  "total": "Total",
+  "clearCart": "Clear All",
+  "aiChatTitle": "AI Voice Order",
+  "aiChatPlaceholder": "Speak or type your order...",
+  "menu": "Menu",
+  "categoryAll": "All",
+  "addCart": "Add"
+}
